@@ -2,7 +2,6 @@
   <img src="img/banner.png" alt="Sandi Arizki Saputra" />
 </p>
 
-<h2 align="center">Sandi Arizki Saputra</h2>
 <h4 align="center">Web Developer</h4>
 
 <p align="center">
