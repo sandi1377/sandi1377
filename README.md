@@ -27,7 +27,7 @@
   <a href="https://instagram.com/sndyspttra_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
-  <a href="https://www.youtube.com/c/byshan1306" target="_blank">
+  <a href="https://www.youtube.com/@byshan1306/featured" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
   </a>
 </p>
