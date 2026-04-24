@@ -20,7 +20,7 @@
 ---
 
 ### 🤝 Terhubung dengan saya
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sandi-arizki-saputra-2000502b6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
