@@ -19,22 +19,22 @@
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/sandiarizkisaputra" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/sndyspttra_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/c/byshan1306" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+### 🤝 Terhubung dengan saya
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandi-arizki-saputra-2000502b6" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://instagram.com/sndyspttra_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/c/byshan1306" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Bahasa dan Alat
 <p align="left">
 <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandi1377&show_icons=true&locale=en" />
   <br/>
