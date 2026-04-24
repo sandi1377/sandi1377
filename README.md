@@ -14,7 +14,7 @@
 - 🌐 Portfolio: [portfolio-sandyy.netlify.app](https://portfolio-sandyy.netlify.app)  
 - 📝 Blog: [sandy-softwareone.blogspot.com](https://sandy-softwareone.blogspot.com/)  
 - 📫 Email: **sandiarizki68@gmail.com**  
-- 📄 CV: [Lihat CV](https://github.com/sandi1377/CV/blob/main/CV-SANDI.pdf)
+- 📄 CV: [Lihat CV](https://github.com/sandi1377/CV.git)
 
 ---
 
